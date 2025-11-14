@@ -1,6 +1,3 @@
-from unittest import result
-
-
 def initialize_uesrs():
     """初始化数据库"""
     users = {
